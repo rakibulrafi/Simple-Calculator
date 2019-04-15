@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\obj\Debug\netcoreapp2.1\AdvanceCalculator.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\obj\Debug\netcoreapp2.1\AdvanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\obj\Debug\netcoreapp2.1\AdvanceCalculator.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\obj\Debug\netcoreapp2.1\AdvanceCalculator.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\bin\Debug\netcoreapp2.1\AdvanceCalculator.deps.json
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\bin\Debug\netcoreapp2.1\AdvanceCalculator.runtimeconfig.json
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\bin\Debug\netcoreapp2.1\AdvanceCalculator.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\bin\Debug\netcoreapp2.1\AdvanceCalculator.dll
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\bin\Debug\netcoreapp2.1\AdvanceCalculator.pdb
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\obj\Debug\netcoreapp2.1\AdvanceCalculator.dll
+C:\Users\Acer\source\repos\MySolution\AdvanceCalculator.cs\obj\Debug\netcoreapp2.1\AdvanceCalculator.pdb
